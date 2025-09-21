@@ -1,11 +1,11 @@
-# Proyecto GITHub
-Este proyecto es referente a todo de git y github 
+# Proyecto Git
+este es un proyecto donde se trabajara html y git para ir aprendiendo sobre git
+
 ## Integrantes 
 - Jhoan Daniel Velandia Prieto 
 - Andres Felipe Bustacara
 
-## Herramientas utilizadas 
-- git
-- github
-- html 
-- css
+## Herramientas 
+- Git
+- HTML 
+- CSS
